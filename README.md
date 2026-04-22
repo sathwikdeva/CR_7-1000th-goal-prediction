@@ -5,4 +5,10 @@ Historical Scoring Data: Goals per season across different leagues (La Liga, Pre
 Scoring Rate ($G/G$): How his goals-per-game ratio has evolved over time.
 Predictive Modeling: Using regression analysis and time-series forecasting to project future goal tallies.
 # 📁 Repository Structure
-CR_7 1000th goal prediction/: Contains the core logic and datasets.deepl-py.ipynb: The primary Jupyter Notebook featuring data cleaning, visualization, and the prediction model.README.md: Project documentation.🚀 Getting StartedPrerequisitesTo run the analysis locally, you will need:Python 3.xPandasMatplotlib / SeabornScikit-learn
+CR_7 1000th goal prediction/: Contains the core logic and datasets.deepl-py.ipynb: The primary Jupyter Notebook featuring data cleaning, visualization, and the prediction model.README.md: Project documentation.
+ # 🚀 Getting Started
+PrerequisitesTo run the analysis locally, you will need:
+Python 3.x
+Pandas
+Matplotlib / Seaborn
+Scikit-learn
